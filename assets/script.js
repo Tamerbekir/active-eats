@@ -2,6 +2,21 @@
 const workoutUrl = "https://api.api-ninjas.com/v1/caloriesburned?activity="
 const workoutApi = "k163haKKqYGpamQeCQMW4A==hVWwjQzS9u8h36xK"
 
+document.getElementById("Favorites-btn");
+addEventListener("click", function (){
+    function addToFavorites() {
+        
+    }
+})
+document.getElementById("favorites");
+
+
+//puts your favorites to local storage
+let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
+  favorites.push(favorite);
+  localStorage.setItem("favorites", JSON.stringify(favorites));
+
+
 
 document.getElementById("workoutBtn").addEventListener("click", function () {
     function getExercises() {
