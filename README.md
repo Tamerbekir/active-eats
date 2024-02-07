@@ -3,6 +3,10 @@
 ## Description
 This application is intended for users who have been struggling with finding a diet to complement their workout exercises. Users will have the ability to keep track of their calories and calories per serving as well as a quick exercise that can help you burn the amount of calories the user has just consumed. Users will be asked via a search bar to select a specific range of calories they would like to custom select what kind of diet they want and select the type of meal they would like. After selecting these parameters a recipe will be generated and displayed along with important information about the recipe that was just generated. You will also have the ability to either search for a specific exercise or choose from a few popular categories that we provide for you. You will then be provided instructions and important information for your workout exercise. After being provided with this information users will have the ability to save their favorite recipes and exercises with the Add to favorites button. You can access your favorites via the Favorites tab at the top right of the application.
 
+## Technologies
+Bootstrap 5.0
+VS Code
+APIs from Ninjas Exercises API and Edamam Nutrition API for both generating workouts and recipes.
  
 # The Goal
 The goal of this application is to provide users with a comprehensive list of exercises targeting every major muscle group.
