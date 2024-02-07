@@ -8,14 +8,14 @@ Bootstrap 5.0
 VS Code
 APIs from Ninjas Exercises API and Edamam Nutrition API for both generating workouts and recipes.
  
-# The Goal
+##  The Goal
 The goal of this application is to provide users with a comprehensive list of exercises targeting every major muscle group.
 
 As well as providing a full analysis of food recipes that complement your choice of exercise.
 
 Users who have a busy schedule can use this application to get ahead and pre-plan their day and save time throughout their busy schedule.
 
-# User Story 
+##  User Story 
 As an active person with a busy schedule
 
 I want an application that can generate meals and a workout for me without losing any valuable time.
@@ -24,19 +24,19 @@ As a person having issues with finding a good diet
 
 I want an application that is efficient and can provide me with a solution for finding a diet that fits me.
 
-# Deployed Link 
+##  Deployed Link 
 <a href="https://tamerbekir.github.io/active-eats/">Active Eats</a>
 
-# Active Eats Repository
+##  Active Eats Repository
 <a href="https://github.com/Tamerbekir/active-eats">Active Eats Repo</a>
 
 
-# API Links
+## API Links
 <a href="https://developer.edamam.com/edamam-nutrition-api">Edamam Nutrition API</a>
 <a href="https://api-ninjas.com/api/exercises">Ninjas API</a>
 
 
-# Image Credits
+##  Image Credits
 
 <a href="https://www.freepik.com/photos/gym-wallpaper">Gym</a> <br>
 <a href="https://www.prevention.com/food-nutrition/healthy-eating/g33416014/heart-healthy-food-wd">Healthy Food</a><br>
@@ -47,12 +47,12 @@ I want an application that is efficient and can provide me with a solution for f
 <a href="https://www.menshealth.com/uk/fitness/a758565/this-20-minute-rowing-workout-strips-fat-and-builds-lean-muscle/">Rowing</a><br>
 
 
-# Screenshot
+##  Screenshot
 ![Active Eats](assets/images/screen-shot-active-eats-homepage.jpg)
 ![Active Eats](assets/images/screencapture-tamerbekir-github-io-active-eats-Favs-html-2024-02-05-19_44_52.png)
 
 
-# Contributors
+## Contributors
 <a href="https://github.com/rafarizvi">Rafa Rizvi</a><br>
 <a href="https://github.com/Tamerbekir">Tamer Bekir</a><br>
 <a href="https://github.com/JaysonNunez1">Jayson Nunez</a><br>
